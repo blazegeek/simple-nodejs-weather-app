@@ -1,5 +1,6 @@
 # simple-nodejs-weather-app
-Simple Node.js Command Line Weather Application
+
+Forked from [Brandon Morelli's Simple Node.js Command Line Weather Application](https://github.com/bmorelli25/simple-nodejs-weather-app)
 
 * Check out the **[Live Demo](https://simple-nodejs-weather-app-irhhpddsku.now.sh/)**
 * Read the full tutorial on how to build this application at [codeburst.io](https://codeburst.io)
@@ -8,4 +9,3 @@ Simple Node.js Command Line Weather Application
 node server.js
 // Now open your browser and visit: localhost:3000
 ```
-![gif](https://github.com/bmorelli25/simple-nodejs-weather-app/blob/master/giphy.gif?raw=true 'website gif')
